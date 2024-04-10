@@ -22,6 +22,11 @@ This sample shows how to manage different layouts based on the role of the user 
 
 This sample includes a commenting component for a blog, implemented using Livewire in Laravel. The component allows users to comment on blog posts and reply to existing comments without the need for writing JavaScript code.
 
+### Features
+- Commenting functionality
+- Reply to comments
+- No JavaScript required
+
 ## Sample 4: Api Setup with Swagger
  
  Swagger, you can use it to document and test your APIs. Visit the Swagger UI in your browser and explore the endpoints documented 
@@ -29,12 +34,6 @@ This sample includes a commenting component for a blog, implemented using Livewi
 ## Sample 5: Shopping cart functionality, checkout with Stripe payment integration
 
 This is a Laravel project that implements user authentication, product management, shopping cart functionality, checkout with Stripe payment integration, and a 5-level referral system.
-
-
-### Features
-- Commenting functionality
-- Reply to comments
-- No JavaScript required
 
 ## Getting Started
 
