@@ -38,7 +38,6 @@ Swagger Setup in Laravel
         });
     ```
   - Controllers
-     
      ```bash
       App\Http\Controllers\Api\LoginController
       App\Http\Controllers\Api\UserController
