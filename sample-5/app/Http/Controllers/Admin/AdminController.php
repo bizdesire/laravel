@@ -24,6 +24,7 @@ class AdminController extends Controller
 
     public function index($value='')
     { 
+        
       return view('backend.index');
     }
 
