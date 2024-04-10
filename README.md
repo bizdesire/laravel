@@ -7,6 +7,8 @@ Welcome to our Laravel code samples repository! This repository contains various
 - [Sample 1: Login with Livewire](#sample-1-login-with-livewire)
 - [Sample 2: Handling Multiple Layouts According to User Role](#sample-2-handling-multiple-layouts-according-to-user-role)
 - [Sample 3: Commenting Component in Livewire](#sample-3-commenting-component-in-livewire)
+- [Sample 4: Api Setup with Swagger](#sample-3-api-setup-with-swagger)
+- [Sample 5: Shopping cart functionality, checkout with Stripe payment integration](#sample-3-simple-shopping-cart)
 
 ## Sample 1: Login with Livewire
 
@@ -19,6 +21,15 @@ This sample shows how to manage different layouts based on the role of the user 
 ## Sample 3: Commenting Component in Livewire
 
 This sample includes a commenting component for a blog, implemented using Livewire in Laravel. The component allows users to comment on blog posts and reply to existing comments without the need for writing JavaScript code.
+
+## Sample 4: Api Setup with Swagger
+ 
+ Swagger, you can use it to document and test your APIs. Visit the Swagger UI in your browser and explore the endpoints documented 
+
+## Sample 5: Shopping cart functionality, checkout with Stripe payment integration
+
+This is a Laravel project that implements user authentication, product management, shopping cart functionality, checkout with Stripe payment integration, and a 5-level referral system.
+
 
 ### Features
 - Commenting functionality
